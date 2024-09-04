@@ -21,5 +21,5 @@ pyinstaller --onefile --windowed --add-data "mnt/data/*;mnt/data" chengyudian.py
 封裝完成後，可執行文件會位於 dist 文件夾中，雙擊即可運行應用程式。
 
 ## 系統需求
-- **Windows 8 / Windows Server 2012以上(Windows NT 版本 6.2以上)**
+- **Windows 8 / Windows Server 2012以上 ( Windows NT 版本 6.2以上 )**
 - **Python 3.6 或以上版本**
